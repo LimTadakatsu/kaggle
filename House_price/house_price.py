@@ -24,7 +24,7 @@ import os
 from sklearn.model_selection import GridSearchCV
 from numpy import dtype
 
-api_token={"username":"tadalim","key":"3ee11528b9e5b22f2ae757a84eda1ee7"}
+api_token={"username":"","key":""}
 
 if not os.path.exists("/root/.kaggle"): 
   os.makedirs("/root/.kaggle")
